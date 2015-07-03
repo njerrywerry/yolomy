@@ -1,0 +1,50 @@
+#home {
+background: url(Assignment_1/hero.jpg);
+    padding-bottom: 30px;   
+}
+p {
+text-align: center;
+    color: white;
+}
+
+ul {
+	text-decoration: none;
+    list-style-type: none;
+}
+li {
+	text-decoration: none;
+	display: inline;
+ color: white;
+}
+
+#check {
+background-color: #b0aa91;
+    padding: 30px 0px 30px 0px;
+}
+ input[type="submit"]{
+      background: #b71c1c;
+     color: white;
+ float: right;
+    
+ }
+input {
+      border: 0;
+      padding: 10px;
+    }
+a {
+color: white;
+    
+}
+#about {
+background: url(Assignment_1/assets/backgrounds/about.jpg);
+    padding-top: 200px;
+    padding-bottom: 40px;
+   
+}
+#sale {
+background-color: #64596b;
+}
+
+.col s3 {
+float:left;
+}
